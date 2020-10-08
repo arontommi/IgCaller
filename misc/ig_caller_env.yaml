@@ -1,0 +1,11 @@
+name: IGcaller_env
+channels:
+  - bioconda
+  - conda
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy=1.16.*
+  - scipy=1.3
+  - samtools=1.9
+  - regex
